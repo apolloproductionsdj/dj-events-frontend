@@ -1,0 +1,77 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "name": "Throwback Thursdays with DJ Manny T",
+            "slug": "throwback-thursdays-with-dj-manny-t",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 100022",
+            "performers": "DJ MAnny T",
+            "date": "June 09, 20222",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixs nostalgic songs from two of the best decaseds of music with the very best music from the 90's and 2000's",
+            "images": "/images/sample/event1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Throwback Thursdays with DJ Torres",
+            "slug": "throwback-thursdays-with-dj-torres",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 100022",
+            "performers": "DJ Torres",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixs nostalgic songs from two of the best decaseds of music with the very best music from the 90's and 2000's",
+            "images": "/images/sample/event2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Throwback Thursdays with DJ Manic",
+            "slug": "throwback-thursdays-with-dj-manic",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 100022",
+            "performers": "DJ Manic",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixs nostalgic songs from two of the best decaseds of music with the very best music from the 90's and 2000's",
+            "images": "/images/sample/event3.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Throwback Thursdays with DJ Scotty T",
+            "slug": "throwback-thursdays-with-dj-scotty-t",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 100022",
+            "performers": "DJ Scotty T",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixs nostalgic songs from two of the best decaseds of music with the very best music from the 90's and 2000's",
+            "images": "/images/sample/event4.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Throwback Thursdays with DJ E-Man",
+            "slug": "throwback-thursdays-with-dj-e-man",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 100022",
+            "performers": "DJ E-Man",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixs nostalgic songs from two of the best decaseds of music with the very best music from the 90's and 2000's",
+            "images": "/images/sample/event5.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Throwback Thursdays with DJ Mike T",
+            "slug": "throwback-thursdays-with-dj-mike-t",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 100022",
+            "performers": "DJ Mike T",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixs nostalgic songs from two of the best decaseds of music with the very best music from the 90's and 2000's",
+            "images": "/images/sample/event6.jpg"
+        }
+
+    ]
+}
