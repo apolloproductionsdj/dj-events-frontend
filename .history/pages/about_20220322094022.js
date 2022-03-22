@@ -1,4 +1,4 @@
-import Layout from "@/components/Layout";
+import Layout from "/dcomponents/Layout";
 
 export default function AboutPage() {
   return (
